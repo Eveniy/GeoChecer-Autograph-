@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>MSK</name>
+    <Style id="a7ab7bac-72fd-468e-8224-1df5467993df">
+      <LineStyle>
+        <color>ffbff0fd</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>32008000</color>
+        <outline>0</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>МСК (Зеленая, 51</name>
+      <styleUrl>#a7ab7bac-72fd-468e-8224-1df5467993df</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>84.929571000,53.690515000,0.000 84.929523000,53.690407000,0.000 84.929582000,53.690359000,0.000 84.929716000,53.690324000,0.000 84.929800000,53.690267000,0.000 84.930004000,53.690261000,0.000 84.930557000,53.690112000,0.000 84.930715000,53.690067000,0.000 84.931611000,53.689849000,0.000 84.933311000,53.689435000,0.000 84.934038000,53.689899000,0.000 84.933582000,53.690169000,0.000 84.934148000,53.690992000,0.000 84.931423000,53.691853000,0.000 84.930880000,53.691594000,0.000 84.930504000,53.691241000,0.000 84.930365000,53.691152000,0.000 84.930215000,53.691094000,0.000 84.929957000,53.690919000,0.000 84.929791000,53.690738000,0.000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <ExtendedData>
+        <Data name="ID">
+          <value>fca3de33-2437-4681-9c93-602a2e547d84</value>
+        </Data>
+        <Data name="Settings">
+          <value>﻿&lt;Complex name="Root" type="AutoGRAPHShell.ElementSettingsStore, AutoGRAPHShell"&gt;
+  &lt;Properties&gt;
+    &lt;SingleArray name="ElmComSettings"&gt;
+      &lt;Items&gt;
+        &lt;Complex&gt;
+          &lt;Properties&gt;
+            &lt;Simple name="ClassName" value="Informer" /&gt;
+            &lt;Null name="FileName" /&gt;
+            &lt;SingleArray name="NewSettings"&gt;
+              &lt;Items /&gt;
+            &lt;/SingleArray&gt;
+          &lt;/Properties&gt;
+        &lt;/Complex&gt;
+      &lt;/Items&gt;
+    &lt;/SingleArray&gt;
+    &lt;SingleArray name="ElmIndSettings"&gt;
+      &lt;Items&gt;
+        &lt;Complex&gt;
+          &lt;Properties&gt;
+            &lt;Simple name="ModuleName" value="Informer" /&gt;
+            &lt;SingleArray name="NewSettings"&gt;
+              &lt;Items /&gt;
+            &lt;/SingleArray&gt;
+          &lt;/Properties&gt;
+        &lt;/Complex&gt;
+        &lt;Complex&gt;
+          &lt;Properties&gt;
+            &lt;Simple name="ModuleName" value="PropertyCard" /&gt;
+            &lt;SingleArray name="NewSettings"&gt;
+              &lt;Items&gt;
+                &lt;Complex&gt;
+                  &lt;Properties&gt;
+                    &lt;Complex name="Settings" type="AutoGRAPHPropertyCard.ElmIndSettings, AutoGRAPHPropertyCard"&gt;
+                      &lt;Properties&gt;
+                        &lt;Simple name="Fake" value="0" /&gt;
+                      &lt;/Properties&gt;
+                    &lt;/Complex&gt;
+                  &lt;/Properties&gt;
+                &lt;/Complex&gt;
+              &lt;/Items&gt;
+            &lt;/SingleArray&gt;
+          &lt;/Properties&gt;
+        &lt;/Complex&gt;
+      &lt;/Items&gt;
+    &lt;/SingleArray&gt;
+    &lt;SingleArray name="GrpComSettings"&gt;
+      &lt;Items&gt;
+        &lt;Complex&gt;
+          &lt;Properties&gt;
+            &lt;Simple name="ClassName" value="PropertiesRegistry" /&gt;
+            &lt;Null name="FileName" /&gt;
+            &lt;SingleArray name="NewSettings"&gt;
+              &lt;Items&gt;
+                &lt;Complex&gt;
+                  &lt;Properties&gt;
+                    &lt;Complex name="Settings" type="AutoGRAPHShell.Modules.PropertiesRegistry.GrpComSettings, AutoGRAPHShell"&gt;
+                      &lt;Properties&gt;
+                        &lt;Null name="Name" /&gt;
+                        &lt;SingleArray name="properties"&gt;
+                          &lt;Items&gt;
+                            &lt;Complex&gt;
+                              &lt;Properties&gt;
+                                &lt;Simple name="name" value="SpeedMax" /&gt;
+                                &lt;Simple name="type" value="Number" /&gt;
+                                &lt;Simple name="value" type="System.Decimal, mscorlib" value="15" /&gt;
+                                &lt;Null name="comment" /&gt;
+                                &lt;Simple name="IsReadOnly" value="False" /&gt;
+                                &lt;Simple name="ID" value="b410c74a-12b0-422d-89ac-a23d8c47d476" /&gt;
+                                &lt;Simple name="ParentID" value="00000000-0000-0000-0000-000000000000" /&gt;
+                                &lt;Simple name="NodeType" value="Property" /&gt;
+                              &lt;/Properties&gt;
+                            &lt;/Complex&gt;
+                            &lt;Complex&gt;
+                              &lt;Properties&gt;
+                                &lt;Simple name="name" value="Measurements" /&gt;
+                                &lt;Simple name="type" value="String" /&gt;
+                                &lt;Simple name="value" type="System.String, mscorlib" value="Measurements" /&gt;
+                                &lt;Null name="comment" /&gt;
+                                &lt;Simple name="IsReadOnly" value="True" /&gt;
+                                &lt;Simple name="ID" value="d0bb58e6-47a7-45bc-9496-deac818d7be7" /&gt;
+                                &lt;Simple name="ParentID" value="00000000-0000-0000-0000-000000000000" /&gt;
+                                &lt;Simple name="NodeType" value="Directory" /&gt;
+                              &lt;/Properties&gt;
+                            &lt;/Complex&gt;
+                            &lt;Complex&gt;
+                              &lt;Properties&gt;
+                                &lt;Simple name="name" value="Perimeter" /&gt;
+                                &lt;Simple name="type" value="Number" /&gt;
+                                &lt;Simple name="value" type="System.Decimal, mscorlib" value="0.9" /&gt;
+                                &lt;Simple name="comment" value="км" /&gt;
+                                &lt;Simple name="IsReadOnly" value="True" /&gt;
+                                &lt;Simple name="ID" value="37da5c07-c3b5-4052-92ea-f120569e085f" /&gt;
+                                &lt;Simple name="ParentID" value="d0bb58e6-47a7-45bc-9496-deac818d7be7" /&gt;
+                                &lt;Simple name="NodeType" value="Property" /&gt;
+                              &lt;/Properties&gt;
+                            &lt;/Complex&gt;
+                            &lt;Complex&gt;
+                              &lt;Properties&gt;
+                                &lt;Simple name="name" value="Square" /&gt;
+                                &lt;Simple name="type" value="Number" /&gt;
+                                &lt;Simple name="value" type="System.Decimal, mscorlib" value="4.81" /&gt;
+                                &lt;Simple name="comment" value="га" /&gt;
+                                &lt;Simple name="IsReadOnly" value="True" /&gt;
+                                &lt;Simple name="ID" value="5ebdf018-4209-429f-a922-861805ecf522" /&gt;
+                                &lt;Simple name="ParentID" value="d0bb58e6-47a7-45bc-9496-deac818d7be7" /&gt;
+                                &lt;Simple name="NodeType" value="Property" /&gt;
+                              &lt;/Properties&gt;
+                            &lt;/Complex&gt;
+                          &lt;/Items&gt;
+                        &lt;/SingleArray&gt;
+                      &lt;/Properties&gt;
+                    &lt;/Complex&gt;
+                  &lt;/Properties&gt;
+                &lt;/Complex&gt;
+              &lt;/Items&gt;
+            &lt;/SingleArray&gt;
+          &lt;/Properties&gt;
+        &lt;/Complex&gt;
+        &lt;Complex&gt;
+          &lt;Properties&gt;
+            &lt;Simple name="ClassName" value="DeviceDataHandler" /&gt;
+            &lt;Null name="FileName" /&gt;
+            &lt;SingleArray name="NewSettings"&gt;
+              &lt;Items&gt;
+                &lt;Complex&gt;
+                  &lt;Properties&gt;
+                    &lt;Null name="Settings" /&gt;
+                  &lt;/Properties&gt;
+                &lt;/Complex&gt;
+                &lt;Complex&gt;
+                  &lt;Properties&gt;
+                    &lt;Complex name="Settings" type="AutoGRAPHShell.Modules.DeviceDataHandler.GFSpeedCtrlSettings, AutoGRAPHShell"&gt;
+                      &lt;Properties&gt;
+                        &lt;Null name="name" /&gt;
+                      &lt;/Properties&gt;
+                    &lt;/Complex&gt;
+                  &lt;/Properties&gt;
+                &lt;/Complex&gt;
+                &lt;Complex&gt;
+                  &lt;Properties&gt;
+                    &lt;Null name="Settings" /&gt;
+                  &lt;/Properties&gt;
+                &lt;/Complex&gt;
+              &lt;/Items&gt;
+            &lt;/SingleArray&gt;
+          &lt;/Properties&gt;
+        &lt;/Complex&gt;
+      &lt;/Items&gt;
+    &lt;/SingleArray&gt;
+    &lt;Null name="GrpIndSettings" /&gt;
+  &lt;/Properties&gt;
+&lt;/Complex&gt;</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>
